@@ -25,7 +25,8 @@ Analyze WhatsApp chat exports for insights like most active users, common words,
 
 ## 📌 Live App
 
-👉 [Click here to use the app](https://whatsapp-chat-analyser-co3hivavgebg6llxl9lm7c.streamlit.app/) 
+👉 [Open the Live App 🌐](https://whatsapp-chat-analyser-co3hivavgebg6llxl9lm7c.streamlit.app/) – recommended to **right-click → open in new tab**
+
 
 ---
 
