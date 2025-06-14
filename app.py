@@ -17,6 +17,11 @@ plt.rcParams.update({
 
 st.sidebar.title("Whatsapp Chat Analyzer")
 
+st.sidebar.markdown(
+    "📄 **Upload a WhatsApp exported chat file**  \n"
+    "🕒 Ensure the chat uses **AM/PM time format** (not 24-hour format)."
+)
+
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
     bytes_data = uploaded_file.getvalue()
